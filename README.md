@@ -9,4 +9,4 @@ Hier kommt alles rein!
 
 Ideen und Vorschläge für Spiele in Workshops
 
-[Spielekoffer.md]
+[Spielekoffer.md](Spielekoffer.md)
